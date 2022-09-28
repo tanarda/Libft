@@ -1,2 +1,2 @@
 # Libft
-Remaking classic functions in C which were written before and creating library with them.
+Remaking classic functions with C which were written before and creating library with them.
